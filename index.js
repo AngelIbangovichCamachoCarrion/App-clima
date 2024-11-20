@@ -40,8 +40,8 @@ search.addEventListener('click', ()=>{
                 case 'Smow':
                     image.src = 'images/snow.png';
                     break;
-                case 'Clouds':
-                    image.src = 'images/cloud.png';
+                case 'Cloud':
+                    image.src = 'cloud.png';
                     break;
                 case 'Haze':
                     image.src = 'images/haze.png';
